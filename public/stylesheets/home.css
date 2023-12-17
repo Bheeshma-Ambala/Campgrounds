@@ -1,0 +1,9 @@
+.cover-container {
+    width: 60vw;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
